@@ -1,12 +1,11 @@
 <p align="center">
-  <h1 align="center">Security Architecture Threat Models</h1>
-  <p align="center">
-    Architecture-level threat models for modern cloud platforms and SaaS systems
-  </p>
-</p>
 
-<p align="center">
-Threat modeling focused on <b>attack surfaces, trust boundaries, architecture risks, security controls, and telemetry requirements</b>.
+# Security Architecture Threat Models
+
+Architecture-level threat models for modern cloud platforms and SaaS systems.
+
+Threat modeling focused on **attack surfaces, trust boundaries, architecture risks, security controls, and telemetry requirements**.
+
 </p>
 
 ---
