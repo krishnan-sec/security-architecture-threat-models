@@ -58,17 +58,10 @@ Architecture threat modeling helps identify these risks during system design, al
 
 | Section           | Description                                      |
 | ----------------- | ------------------------------------------------ |
-| **Methodology**   | Threat modeling approach and analysis techniques |
-| **Templates**     | Reusable threat modeling template                |
-| **Threat Models** | Architecture-level threat models                 |
-| **Diagrams**      | Data flow diagrams for modeled systems           |
-
-Quick links:
-
-* Methodology → `methodology/`
-* Templates → `templates/`
-* Threat Models → `models/`
-* Diagrams → `diagrams/`
+| [**Methodology**](/methodology/)   | Threat modeling approach and analysis techniques |
+| [**Templates**](/templates/)     | Reusable threat modeling template                |
+| [**Threat Models**](/models) | Architecture-level threat models                 |
+| [**Diagrams**](diagrams)      | Data flow diagrams for modeled systems           |
 
 ---
 
