@@ -133,6 +133,6 @@ Organizations may adapt these models to fit their own cloud platforms, SaaS syst
 
 ---
 
-## Author
+## Note
 
 Maintained as part of a broader Security Architecture Knowledge Base focused on secure system design, architecture governance, threat modeling, and security observability.
