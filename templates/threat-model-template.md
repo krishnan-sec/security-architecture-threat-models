@@ -144,8 +144,8 @@ Link to other architecture documentation.
 
 **Related Security Architecture Patterns**
 
-* SAP-001 Secure API Boundary
-* SAP-002 Authorization Enforcement Point
+* PAT-001 Secure API Boundary
+* PAT-002 Authorization Enforcement Point
 
 **Related Architecture Decisions**
 
