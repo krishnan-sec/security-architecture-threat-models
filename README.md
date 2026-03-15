@@ -55,33 +55,21 @@ These problems often become visible during security incidents, when understandin
 Architecture threat modeling helps identify these risks during system design, allowing teams to build systems that are secure by design.
 
 ---
+## Repository Navigation
 
-## Repository Structure
+| Section           | Description                                      |
+| ----------------- | ------------------------------------------------ |
+| **Methodology**   | Threat modeling approach and analysis techniques |
+| **Templates**     | Reusable threat modeling template                |
+| **Threat Models** | Architecture-level threat models                 |
+| **Diagrams**      | Data flow diagrams for modeled systems           |
 
-```text
-security-architecture-threat-models
-│
-├── methodology
-│   ├── threat-modeling-framework.md
-│   ├── attack-surface-identification.md
-│   └── trust-boundary-analysis.md
-│
-├── templates
-│   ├── threat-model-template.md
-│   └── data-flow-diagram-template.md
-│
-├── models
-│   ├── TM-001-api-platform.md
-│   ├── TM-002-saas-tenant-isolation.md
-│   ├── TM-003-cicd-pipeline.md
-│   ├── TM-004-identity-platform.md
-│   └── TM-005-secrets-management.md
-│
-└── diagrams
-    ├── api-platform-dfd.md
-    ├── saas-tenant-dfd.md
-    └── cicd-pipeline-dfd.md
-```
+Quick links:
+
+* Methodology → `methodology/`
+* Templates → `templates/`
+* Threat Models → `models/`
+* Diagrams → `diagrams/`
 
 ---
 
